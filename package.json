@@ -58,13 +58,13 @@
     "qr-code",
     "scanner"
   ],
-  "repository": "https://github.com/sdsaerle/react-native-vision-camera",
+  "repository": "https://github.com/sdsearle/react-native-vision-camera",
   "author": "Spencer Searle <spencer.seiro@gmail.com> (https://github.com/sdsaerle)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdsaerle/react-native-vision-camera/issues"
+    "url": "https://github.com/sdsearle/react-native-vision-camera/issues"
   },
-  "homepage": "https://mrousavy.sdsaerle.io/react-native-vision-camera/",
+  "homepage": "https://sdsearle.github.io/react-native-vision-camera/",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
